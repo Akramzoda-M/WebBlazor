@@ -1,0 +1,31 @@
+﻿@page "/tickets"
+@attribute [StreamRendering]
+
+<PageTitle>Билеты</PageTitle>
+
+<h2>Билеты</h2>
+
+<MudDataGrid Items="@Elements" Filterable="true" FilterMode="@_filterMode" FilterCaseSensitivity="@_caseSensitivity">
+    <Columns>
+        <PropertyColumn Property="x => x.Number" Title="Номер" Filterable="false" />
+        <PropertyColumn Property="x => x.Name" Title="Название" />
+        <PropertyColumn Property="x => x.TelegramId" Title="Telegram Id" Editable="false" />
+        <PropertyColumn Property="x => x.Game" Filterable="false" />
+    </Columns>
+    <PagerContent>
+        <MudDataGridPager T="Ticket" />
+    </PagerContent>
+</MudDataGrid>
+
+
+
+@code {
+    IEnumerable<Ticket> Elements = new List<Ticket>();
+    DataGridFilterMode _filterMode = DataGridFilterMode.Simple;
+    DataGridFilterCaseSensitivity _caseSensitivity = DataGridFilterCaseSensitivity.Default;
+
+    protected override async Task OnInitializedAsync()
+    {
+
+    }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qHoIcGdq+bo=",
+  "dgSpecHash": "xQAG44+EIv4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\M_Akramzoda\\source\\repos\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+  "projectFilePath": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M_Akramzoda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\M_Akramzoda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.12\\microsoft.aspnetcore.authorization.8.0.12.nupkg.sha512",

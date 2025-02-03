@@ -1,0 +1,62 @@
+﻿@page "/game"
+@inject IGameServiсe GameService
+@attribute [StreamRendering]
+
+<PageTitle>Конкурсы</PageTitle>
+
+<h2>Конкурсы</h2>
+<MudDataGrid T="Game" Items="@Elements" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
+             StartedEditingItem="@StartedEditingItem" CanceledEditingItem="@CanceledEditingItem" CommittedItemChanges="@CommittedItemChanges"
+             Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
+    <Columns>
+        <PropertyColumn Property="x => x.StartDate" Title="Дата старта" Editable="false" />
+        <PropertyColumn Property="x => x.TicketCount" Title="Количество билетов" />
+        <PropertyColumn Property="x => x.Price" Title="Цена (сомони)" />
+        <TemplateColumn Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
+            <CellTemplate>
+                <MudIconButton Size="@Size.Small" Icon="@Icons.Material.Outlined.Edit" OnClick="@context.Actions.StartEditingItemAsync" />
+            </CellTemplate>
+        </TemplateColumn>
+    </Columns>
+</MudDataGrid>
+
+<div class="d-flex flex-wrap mt-4">
+    <MudSwitch @bind-Value="_readOnly" Color="Color.Primary">Read Only</MudSwitch>
+    <div class="d-flex justify-start align-center">
+        <p class="mud-typography mud-typography-body1 mud-inherit-text mr-2">Form</p>
+        <MudSwitch @bind-Value="_isCellEditMode" Color="Color.Primary">Cell</MudSwitch>
+    </div>
+    <div class="d-flex justify-start align-center">
+        <p class="mud-typography mud-typography-body1 mud-inherit-text mr-2">Manual</p>
+        <MudSwitch @bind-Value="_editTriggerRowClick" Color="Color.Primary">On Row Click</MudSwitch>
+    </div>
+</div>
+
+@code {
+    private IEnumerable<Game> Elements = new List<Game>();
+    private bool _readOnly;
+    private bool _isCellEditMode;
+    private List<string> _events = new();
+    private bool _editTriggerRowClick;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Elements = await GameService.GetAllGames();
+    }
+
+    // events
+    void StartedEditingItem(Game item)
+    {
+        Console.WriteLine("start");
+    }
+
+    void CanceledEditingItem(Game item)
+    {
+        Console.WriteLine("cancel");
+    }
+
+    void CommittedItemChanges(Game item)
+    {
+        Console.WriteLine("commit");
+    }
+}
