@@ -1,11 +1,11 @@
 ﻿using BlazorTest.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace BlazorTest.Servises
+namespace BlazorTest.Controllers
 {
     public interface IGameServiсe
     {
         Task<List<Game>> GetAllGames();
-       
+
     }
 }

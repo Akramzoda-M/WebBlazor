@@ -1,5 +1,5 @@
-﻿@page "/tickets"
-@attribute [StreamRendering]
+﻿@page "/tickets1"
+@inject ITicketService TicketService
 
 <PageTitle>Билеты</PageTitle>
 
@@ -26,6 +26,6 @@
 
     protected override async Task OnInitializedAsync()
     {
-
+        Elements = await TicketService.GetAllTickets();
     }
 }

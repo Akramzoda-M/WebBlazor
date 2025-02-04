@@ -1,7 +1,7 @@
 ﻿using BlazorTest.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace BlazorTest.Servises
+namespace BlazorTest.Controllers
 {
     public class GameServiсe : IGameServiсe
     {
@@ -15,12 +15,8 @@ namespace BlazorTest.Servises
         public async Task<List<Game>> GetAllGames()
         {
             var games = await _context.Games.ToListAsync();
-            if (games==null) 
-            {
-                Console.WriteLine("Empty");
-            }
             return games;
         }
-        
+
     }
 }

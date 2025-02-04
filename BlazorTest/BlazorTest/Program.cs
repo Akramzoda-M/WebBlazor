@@ -1,6 +1,6 @@
 using BlazorTest.Components;
+using BlazorTest.Controllers;
 using BlazorTest.Entities;
-using BlazorTest.Servises;
 using Microsoft.EntityFrameworkCore;
 using MudBlazor.Services;
 
@@ -12,6 +12,7 @@ builder.Services.AddRazorComponents()
 // Add services to the container.
 builder.Services.AddMudServices();
 builder.Services.AddScoped<IGameServiñe, GameServiñe>();
+builder.Services.AddScoped<ITicketService, TicketService>();
 builder.Services.AddDbContext<SuhrobOfficialContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection")));
 
