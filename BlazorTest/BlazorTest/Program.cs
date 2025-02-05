@@ -13,6 +13,7 @@ builder.Services.AddRazorComponents()
 builder.Services.AddMudServices();
 builder.Services.AddScoped<IGameServiñe, GameServiñe>();
 builder.Services.AddScoped<ITicketService, TicketService>();
+builder.Services.AddScoped<IPrizeService, PrizeService>();
 builder.Services.AddDbContext<SuhrobOfficialContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection")));
 

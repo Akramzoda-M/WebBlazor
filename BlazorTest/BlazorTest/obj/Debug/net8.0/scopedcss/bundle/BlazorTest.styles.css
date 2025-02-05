@@ -10,7 +10,7 @@ main[b-tdermkid1v] {
 }
 
 .sidebar[b-tdermkid1v] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #6df271 150%);
 }
 
 .top-row[b-tdermkid1v] {
@@ -78,7 +78,6 @@ main[b-tdermkid1v] {
 }
 
 #blazor-error-ui[b-tdermkid1v] {
-    background: lightyellow;
     bottom: 0;
     box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
     display: none;

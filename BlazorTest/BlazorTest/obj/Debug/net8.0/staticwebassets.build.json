@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oou4ofoR53d5htjSzH1Fsbrdr91behsnoIuHEz/qYBw=",
+  "Hash": "brrFiBpvqDFbnpcxcQJ5BaA4RttSgIQEKe48m+7OVug=",
   "Source": "BlazorTest",
   "BasePath": "_content/BlazorTest",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "gvcf62nu16",
-      "Integrity": "FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=",
+      "Fingerprint": "crh30yl8uq",
+      "Integrity": "WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "gvcf62nu16",
-      "Integrity": "FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=",
+      "Fingerprint": "crh30yl8uq",
+      "Integrity": "WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css"
@@ -443,7 +443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9054"
+          "Value": "9025"
         },
         {
           "Name": "Content-Type",
@@ -451,11 +451,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=\""
+          "Value": "\"WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
+          "Value": "Wed, 05 Feb 2025 05:39:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -465,12 +465,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0="
+          "Value": "sha256-WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c="
         }
       ]
     },
     {
-      "Route": "BlazorTest.gvcf62nu16.bundle.scp.css",
+      "Route": "BlazorTest.crh30yl8uq.bundle.scp.css",
       "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -480,7 +480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9054"
+          "Value": "9025"
         },
         {
           "Name": "Content-Type",
@@ -488,11 +488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=\""
+          "Value": "\"WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
+          "Value": "Wed, 05 Feb 2025 05:39:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -502,7 +502,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gvcf62nu16"
+          "Value": "crh30yl8uq"
         },
         {
           "Name": "label",
@@ -510,12 +510,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0="
+          "Value": "sha256-WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c="
         }
       ]
     },
     {
-      "Route": "BlazorTest.gvcf62nu16.styles.css",
+      "Route": "BlazorTest.crh30yl8uq.styles.css",
       "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -525,7 +525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9054"
+          "Value": "9025"
         },
         {
           "Name": "Content-Type",
@@ -533,11 +533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=\""
+          "Value": "\"WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
+          "Value": "Wed, 05 Feb 2025 05:39:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -547,7 +547,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gvcf62nu16"
+          "Value": "crh30yl8uq"
         },
         {
           "Name": "label",
@@ -555,7 +555,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0="
+          "Value": "sha256-WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c="
         }
       ]
     },
@@ -570,7 +570,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9054"
+          "Value": "9025"
         },
         {
           "Name": "Content-Type",
@@ -578,11 +578,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=\""
+          "Value": "\"WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
+          "Value": "Wed, 05 Feb 2025 05:39:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -592,7 +592,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0="
+          "Value": "sha256-WGs/mIbU9SKIfClEMOdFUf2MEttHxhBMXBPQWoFNC7c="
         }
       ]
     },

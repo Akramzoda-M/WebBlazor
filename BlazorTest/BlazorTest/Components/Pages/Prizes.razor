@@ -1,7 +1,57 @@
 ﻿@page "/prizes"
+@inject IPrizeService PrizeService
+@attribute [StreamRendering]
 
 <PageTitle>Призы</PageTitle>
 
-<h1>Hello, world!</h1>
 
-Welcome to your new app.
+@if (Elements.Count() == 0)
+{
+    <MudAlert Severity="Severity.Error">Нет активных конкурсов!</MudAlert>
+}
+else
+{
+    <MudDataGrid T="Prize" Items="@Elements" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
+                 StartedEditingItem="@StartedEditingItem" CanceledEditingItem="@CanceledEditingItem" CommittedItemChanges="@CommittedItemChanges"
+                 Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
+        <Columns>
+            <PropertyColumn Property="x => x.Name" Title="Название" Editable="false" />
+            <PropertyColumn Property="x => x.Id" Title="Количество" />
+            <TemplateColumn Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
+                <CellTemplate>
+                    <MudIconButton Size="@Size.Small" Icon="@Icons.Material.Outlined.Edit" OnClick="@context.Actions.StartEditingItemAsync" />
+                </CellTemplate>
+            </TemplateColumn>
+        </Columns>
+    </MudDataGrid>
+}
+
+
+@code {
+    private IEnumerable<Prize> Elements = new List<Prize>();
+    private bool _readOnly;
+    private bool _isCellEditMode;
+    private List<string> _events = new();
+    private bool _editTriggerRowClick;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Elements = await PrizeService.GetAllPrizes();
+    }
+
+    // events
+    void StartedEditingItem(Prize item)
+    {
+        Console.WriteLine("start");
+    }
+
+    void CanceledEditingItem(Prize item)
+    {
+        Console.WriteLine("cancel");
+    }
+
+    void CommittedItemChanges(Prize item)
+    {
+        Console.WriteLine("commit");
+    }
+}

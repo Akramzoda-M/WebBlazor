@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "D:\\GitHub\\WebBlazor\\BlazorTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\gameservi\u0441e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\gameservi\u0441e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,131 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T01:19:12.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Games.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T12:21:12.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Entities\\Ticket.cs",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
-              "RelativeToolTip": "BlazorTest\\Entities\\Ticket.cs",
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:22:51.301Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T05:43:49.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GameServi\u0441e.cs",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\GameServi\u0441e.cs",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
-              "RelativeToolTip": "BlazorTest\\Controllers\\GameServi\u0441e.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:18:54.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T03:16:50.746Z",
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-05T05:19:06.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Tickets.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T03:16:39.945Z",
+              "WhenOpened": "2025-02-05T05:02:01.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\_Imports.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T03:15:21.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TicketService.cs",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\TicketService.cs",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
-              "RelativeToolTip": "BlazorTest\\Controllers\\TicketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:15:10.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ITicketService.cs",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\ITicketService.cs",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
-              "RelativeToolTip": "BlazorTest\\Controllers\\ITicketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:15:08.522Z"
+              "WhenOpened": "2025-02-05T04:57:52.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Program.cs",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
-              "RelativeToolTip": "BlazorTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:10:04.682Z",
+              "Title": "Tickets.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Tickets.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Tickets.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:47:01.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prizes.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:46:48.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Games.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Games.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Games.razor",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:46:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Final.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Final.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:46:36.385Z",
               "EditorCaption": ""
             }
           ]
