@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uW7u3DJMCENXwTwmEVYsbOXt/tyOf8ZKuILEOxJh35Y=",
+  "Hash": "oou4ofoR53d5htjSzH1Fsbrdr91behsnoIuHEz/qYBw=",
   "Source": "BlazorTest",
   "BasePath": "_content/BlazorTest",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorTest\\wwwroot",
       "Source": "BlazorTest",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
       "BasePath": "_content/BlazorTest",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "FqTaEL8BV9TzyL9nukyntnIBb53h0pKRWBtQP5F09MY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "8+iZ8ET0xqP09OvKHJWYGFCjPZyiASD7Kl1tcdK6rj0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
       "SourceId": "BlazorTest",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "BlazorTest#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -77,13 +77,13 @@
       "Integrity": "FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css"
+      "OriginalItemSpec": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
       "SourceId": "BlazorTest",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "BlazorTest#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "FBMnAgsFatzH0pNmj2xD7WcN/6xVzTLa7y0G4auscd0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
       "SourceId": "BlazorTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -136,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
+      "Identity": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
       "SourceId": "BlazorTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\",
       "BasePath": "_content/BlazorTest",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -188,7 +188,7 @@
   "Endpoints": [
     {
       "Route": "_content/MudBlazor/MudBlazor.min.179icbga5v.js",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -233,7 +233,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -270,7 +270,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.js",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -307,7 +307,7 @@
     },
     {
       "Route": "_content/MudBlazor/MudBlazor.min.qcudlz6uj5.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\mudblazor\\8.1.0\\staticwebassets\\MudBlazor.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -352,7 +352,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -373,7 +373,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -389,7 +389,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -410,7 +410,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -434,7 +434,7 @@
     },
     {
       "Route": "BlazorTest.bundle.scp.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -455,7 +455,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 08:37:26 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -471,7 +471,7 @@
     },
     {
       "Route": "BlazorTest.gvcf62nu16.bundle.scp.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTest.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -492,7 +492,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 08:37:26 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -516,7 +516,7 @@
     },
     {
       "Route": "BlazorTest.gvcf62nu16.styles.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -537,7 +537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 08:37:26 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -561,7 +561,7 @@
     },
     {
       "Route": "BlazorTest.styles.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTest.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -582,7 +582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 08:37:26 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -597,8 +597,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -607,7 +607,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -615,11 +615,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -629,7 +629,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -637,13 +637,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -652,7 +652,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -660,11 +660,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -674,13 +674,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -701,7 +701,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -725,7 +725,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -746,7 +746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -762,7 +762,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +783,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -807,7 +807,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -828,7 +828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 04:29:30 GMT"
+          "Value": "Wed, 05 Feb 2025 01:08:38 GMT"
         },
         {
           "Name": "Cache-Control",

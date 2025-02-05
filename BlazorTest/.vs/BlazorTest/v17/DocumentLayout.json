@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\",
+  "WorkspaceRootPath": "D:\\GitHub\\WebBlazor\\BlazorTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\controllers\\gameservi\u0441e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\gameservi\u0441e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\gameservi\u0441e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\controllers\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\controllers\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\controllers\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,124 +50,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T01:19:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Games.razor",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
               "RelativeToolTip": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T12:21:12.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
               "RelativeDocumentMoniker": "BlazorTest\\Entities\\Ticket.cs",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Ticket.cs",
               "RelativeToolTip": "BlazorTest\\Entities\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:22:51.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T03:22:51.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameServi\u0441e.cs",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
               "RelativeDocumentMoniker": "BlazorTest\\Controllers\\GameServi\u0441e.cs",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\GameServi\u0441e.cs",
               "RelativeToolTip": "BlazorTest\\Controllers\\GameServi\u0441e.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:18:54.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T03:18:54.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T03:16:50.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Tickets.razor",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
               "RelativeToolTip": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T03:16:39.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\_Imports.razor",
               "RelativeToolTip": "BlazorTest\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T03:15:21.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TicketService.cs",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\TicketService.cs",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
-              "RelativeToolTip": "BlazorTest\\Controllers\\TicketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:15:10.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T03:15:21.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ITicketService.cs",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
-              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\ITicketService.cs",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
-              "RelativeToolTip": "BlazorTest\\Controllers\\ITicketService.cs",
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\TicketService.cs",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\TicketService.cs",
+              "RelativeToolTip": "BlazorTest\\Controllers\\TicketService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:15:08.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T03:15:10.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\ITicketService.cs",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\ITicketService.cs",
+              "RelativeToolTip": "BlazorTest\\Controllers\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:15:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
               "RelativeDocumentMoniker": "BlazorTest\\Program.cs",
-              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
+              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Program.cs",
               "RelativeToolTip": "BlazorTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T03:10:04.682Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

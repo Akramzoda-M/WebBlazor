@@ -5,21 +5,26 @@
 <PageTitle>Конкурсы</PageTitle>
 
 <h2>Конкурсы</h2>
-<MudDataGrid T="Game" Items="@Elements" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
-             StartedEditingItem="@StartedEditingItem" CanceledEditingItem="@CanceledEditingItem" CommittedItemChanges="@CommittedItemChanges"
-             Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
-    <Columns>
-        <PropertyColumn Property="x => x.StartDate" Title="Дата старта" Editable="false" />
-        <PropertyColumn Property="x => x.TicketCount" Title="Количество билетов" />
-        <PropertyColumn Property="x => x.Price" Title="Цена (сомони)" />
-        <PropertyColumn Property="x => x.Text" Title="Описание" Hidden="true" />
-        <TemplateColumn Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
-            <CellTemplate>
-                <MudIconButton Size="@Size.Small" Icon="@Icons.Material.Outlined.Edit" OnClick="@context.Actions.StartEditingItemAsync" />
-            </CellTemplate>
-        </TemplateColumn>
-    </Columns>
-</MudDataGrid>
+@if (Elements.Count() == 0) {
+    <h4 style="color:red">Нет активних конкурсов!</h4>
+} else {
+    <MudDataGrid T="Game" Items="@Elements" ReadOnly="@_readOnly" EditMode="@(_isCellEditMode ? DataGridEditMode.Cell : DataGridEditMode.Form)"
+                 StartedEditingItem="@StartedEditingItem" CanceledEditingItem="@CanceledEditingItem" CommittedItemChanges="@CommittedItemChanges"
+                 Bordered="true" Dense="true" EditTrigger="@(_editTriggerRowClick ? DataGridEditTrigger.OnRowClick : DataGridEditTrigger.Manual)">
+        <Columns>
+            <PropertyColumn Property="x => x.StartDate" Title="Дата старта" Editable="false" />
+            <PropertyColumn Property="x => x.TicketCount" Title="Количество билетов" />
+            <PropertyColumn Property="x => x.Price" Title="Цена (сомони)" />
+            <PropertyColumn Property="x => x.Text" Title="Описание" Hidden="true" />
+            <TemplateColumn Hidden="@(_isCellEditMode || _readOnly || _editTriggerRowClick)" CellClass="d-flex justify-end">
+                <CellTemplate>
+                    <MudIconButton Size="@Size.Small" Icon="@Icons.Material.Outlined.Edit" OnClick="@context.Actions.StartEditingItemAsync" />
+                </CellTemplate>
+            </TemplateColumn>
+        </Columns>
+    </MudDataGrid>
+}
+
 
 @code {
     private IEnumerable<Game> Elements = new List<Game>();
