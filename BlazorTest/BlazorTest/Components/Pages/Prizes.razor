@@ -7,7 +7,9 @@
 
 @if (Elements.Count() == 0)
 {
-    <MudAlert Severity="Severity.Error">Нет активных конкурсов!</MudAlert>
+    <MudAlert Severity="Severity.Error">Призы не найдены!</MudAlert>
+    <h5></h5>
+    <MudButton Variant="Variant.Filled" Color="Color.Success" FullWidth="true">Добавить</MudButton>
 }
 else
 {
@@ -24,6 +26,8 @@ else
             </TemplateColumn>
         </Columns>
     </MudDataGrid>
+    <h5></h5>
+    <MudButton Variant="Variant.Filled" Color="Color.Success" FullWidth="true">Добавить</MudButton>
 }
 
 

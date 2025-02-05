@@ -1,37 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\WebBlazor\\BlazorTest\\",
+  "WorkspaceRootPath": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\dialogs\\addgamedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\dialogs\\addgamedialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\suhrobofficialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\suhrobofficialcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\controllers\\prizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\prizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\controllers\\iprizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\controllers\\iprizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\dialogs\\edituserdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\dialogs\\edituserdialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|d:\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\buildMultiTargeting\\MudBlazor.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\6bef5c0413a19f4121f026ab8c0cce766eea0a6669ca9f5acacc4494770fb41e\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\c8c4251196eb4011c92e08210a1095f5cfda7ca7bdf4c635c21ecda0f985bae9\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\a27dbe4a60028483964ff4771bddd1a26e1ed27ce032472c70701b815d970220\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\prizes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\final.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\pages\\tickets.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|c:\\users\\m_akramzoda\\documents\\github\\webblazor\\blazortest\\blazortest\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{47FEFCC9-3C06-4F42-9F68-EF44BC36EDF0}|BlazorTest\\BlazorTest.csproj|solutionrelative:blazortest\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -46,129 +101,284 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Error.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Error.razor",
+              "DocumentIndex": 6,
+              "Title": "PrizeService.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\PrizeService.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\PrizeService.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\PrizeService.cs",
+              "RelativeToolTip": "BlazorTest\\Controllers\\PrizeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T05:43:49.877Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:09.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-05T05:19:06.325Z",
-              "EditorCaption": ""
+              "Title": "IPrizeService.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\IPrizeService.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Controllers\\IPrizeService.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Controllers\\IPrizeService.cs",
+              "RelativeToolTip": "BlazorTest\\Controllers\\IPrizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:09.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T05:02:01.927Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "Prize.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Prize.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Entities\\Prize.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Prize.cs",
+              "RelativeToolTip": "BlazorTest\\Entities\\Prize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:34:43.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T04:57:52.174Z",
+              "DocumentIndex": 2,
+              "Title": "SuhrobOfficialContext.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\SuhrobOfficialContext.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Entities\\SuhrobOfficialContext.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\SuhrobOfficialContext.cs",
+              "RelativeToolTip": "BlazorTest\\Entities\\SuhrobOfficialContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:30:56.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Tickets.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Tickets.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T04:47:01.51Z",
+              "WhenOpened": "2025-02-05T11:13:07.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Contact.cs",
+              "RelativeToolTip": "BlazorTest\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:50:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddGameDialog.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Dialogs\\AddGameDialog.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Dialogs\\AddGameDialog.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Dialogs\\AddGameDialog.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Dialogs\\AddGameDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:23:54.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Prizes.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
-              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Prizes.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
-              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Prizes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T04:46:48.477Z",
-              "EditorCaption": ""
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\User.cs",
+              "RelativeToolTip": "BlazorTest\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:15:35.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Games.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
               "RelativeToolTip": "BlazorTest\\Components\\Pages\\Games.razor",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T04:46:43.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "BlazorTest\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Entities\\Game.cs",
+              "RelativeToolTip": "BlazorTest\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:23.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditUserDialog.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Dialogs\\EditUserDialog.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Dialogs\\EditUserDialog.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Dialogs\\EditUserDialog.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Dialogs\\EditUserDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:13:56.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:57:52.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MudBlazor.props",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\buildMultiTargeting\\MudBlazor.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\mudblazor\\8.1.0\\buildMultiTargeting\\MudBlazor.props",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\buildMultiTargeting\\MudBlazor.props [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\mudblazor\\8.1.0\\buildMultiTargeting\\MudBlazor.props [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-05T10:53:25.751Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\mudblazor\\8.1.0\\README.md",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\mudblazor\\8.1.0\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\mudblazor\\8.1.0\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-05T10:53:31.995Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Games.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\6bef5c0413a19f4121f026ab8c0cce766eea0a6669ca9f5acacc4494770fb41e\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\6bef5c0413a19f4121f026ab8c0cce766eea0a6669ca9f5acacc4494770fb41e\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\6bef5c0413a19f4121f026ab8c0cce766eea0a6669ca9f5acacc4494770fb41e\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\6bef5c0413a19f4121f026ab8c0cce766eea0a6669ca9f5acacc4494770fb41e\\BlazorTest\\BlazorTest\\Components\\Pages\\Games.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T10:49:08.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\c8c4251196eb4011c92e08210a1095f5cfda7ca7bdf4c635c21ecda0f985bae9\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c8c4251196eb4011c92e08210a1095f5cfda7ca7bdf4c635c21ecda0f985bae9\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\c8c4251196eb4011c92e08210a1095f5cfda7ca7bdf4c635c21ecda0f985bae9\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c8c4251196eb4011c92e08210a1095f5cfda7ca7bdf4c635c21ecda0f985bae9\\BlazorTest\\BlazorTest\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T10:49:05.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Prizes.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\a27dbe4a60028483964ff4771bddd1a26e1ed27ce032472c70701b815d970220\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\a27dbe4a60028483964ff4771bddd1a26e1ed27ce032472c70701b815d970220\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\AppData\\Local\\SourceServer\\a27dbe4a60028483964ff4771bddd1a26e1ed27ce032472c70701b815d970220\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\a27dbe4a60028483964ff4771bddd1a26e1ed27ce032472c70701b815d970220\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T10:49:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T05:43:49.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-05T05:19:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T05:02:01.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tickets.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Tickets.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Tickets.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Tickets.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:47:01.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Prizes.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Prizes.razor",
+              "RelativeToolTip": "BlazorTest\\Components\\Pages\\Prizes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:46:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Final.razor",
-              "DocumentMoniker": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
+              "DocumentMoniker": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
               "RelativeDocumentMoniker": "BlazorTest\\Components\\Pages\\Final.razor",
-              "ToolTip": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
+              "ToolTip": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\Components\\Pages\\Final.razor",
               "RelativeToolTip": "BlazorTest\\Components\\Pages\\Final.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T04:46:36.385Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1190,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-02-05T04:46:36.385Z"
             }
           ]
         }

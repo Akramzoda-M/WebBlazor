@@ -3275,23 +3275,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\M_Akramzoda\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+      "projectUniqueName": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
       "projectName": "BlazorTest",
-      "projectPath": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\",
+      "projectPath": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+      "packagesPath": "C:\\Users\\M_Akramzoda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\M_Akramzoda\\Documents\\GitHub\\WebBlazor\\BlazorTest\\BlazorTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\M_Akramzoda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

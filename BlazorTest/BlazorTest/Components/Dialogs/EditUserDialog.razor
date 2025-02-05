@@ -1,0 +1,24 @@
+﻿@inject IDialogService DialogService
+
+<MudDialog>
+    <DialogContent>
+        <MudText Typo="Typo.h6">Редактировать пользователя</MudText>
+        <MudTextField Label="Имя" @bind-Value="User.Name" />
+        <MudNumericField Label="Возраст" @bind-Value="User.Age" />
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Save" Color="Color.Primary">Сохранить</MudButton>
+        <MudButton OnClick="MudDialog.Close" Color="Color.Secondary">Отмена</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    [Parameter] public User User { get; set; } = new();
+
+    void Save()
+    {
+        MudDialog.Close(DialogResult.Ok(User)); // Закрываем и передаём обновлённые данные
+    }
+}

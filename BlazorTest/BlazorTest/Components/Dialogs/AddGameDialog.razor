@@ -1,0 +1,25 @@
+﻿<MudDialog>
+    <TitleContent>
+        Добавить конкурс
+    </TitleContent>
+    <DialogContent>
+        Dialog Content
+        <MudTextField @bind-Value="TextValue" Label="Количество" Variant="Variant.Outlined"></MudTextField>
+        <MudTextField @bind-Value="TextValue" Label="Цена" Variant="Variant.Outlined"></MudTextField>
+        <MudButton  Variant="Variant.Filled" Color="Color.Success" FullWidth="true">Добавить</MudButton>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Назад</MudButton>
+        <MudButton Color="Color.Primary" OnClick="Submit">Сохранить</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    public string TextValue { get; set; }
+    [CascadingParameter]
+    private IMudDialogInstance MudDialog { get; set; }
+
+    private void Submit() => MudDialog.Close(DialogResult.Ok(true));
+
+    private void Cancel() => MudDialog.Cancel();
+}
